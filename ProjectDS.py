@@ -202,7 +202,7 @@ Suddenly, a huge monster falls down from the roof. You manage to avoid the crumb
          ' ... . ...`     |  |     |   would send you flying back. What do you do?
        '. .. . . . . .`   |  |     |  
      (  . . . . . ... . __| _|     |          1. Fight it
-    / (  . . .  . . .  .  __|)     |          2. Try to find a way past it
+    / (  . . .  . . .  .  __|)     |          
    / (  .   .. . . .    ).|_|      |          3. Run back
   / ( .`---'. ..  .----'..)        |          
  ( /(____-------------____)        |         
@@ -345,7 +345,7 @@ def stats():
 
 
 #Game Launch
-#v_title()
+v_title()
 asylum1()
 
 
